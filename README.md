@@ -8,11 +8,12 @@ Web development skill test  Objective: A simple webpage that includes the follow
 This is a simple website project created using HTML and CSS.
 The purpose of this project is to provide a clear structure and styling for a webpage, including a navigation menu, main content section, footer, and an image.
 
- # prerequisites,:
+ # prerequisites:
         *VSC IDE
     
 # HOW TO RUN THIS PROJECT :
 On your terminal run:
+
         cmd : gh repo clone spheleleMakau/Code-Leaf-Mentors-Assessment
 
 On your VSC, get into the myWebsite.html, right click and press:
