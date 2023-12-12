@@ -9,7 +9,7 @@ This is a simple website project created using HTML and CSS.
 The purpose of this project is to provide a clear structure and styling for a webpage, including a navigation menu, main content section, footer, and an image.
 
  # prerequisites:
-        *VSC IDE
+        VSC IDE
     
 # HOW TO RUN THIS PROJECT :
 On your terminal run:
@@ -46,7 +46,7 @@ On your VSC, get into the myWebsite.html, right click and press:
     **Navigation Styles:**
         Styles the navigation bar with a light background and padding.
 
-    **mage Styles:**
+    **Image Styles:**
         Resets margin and padding for images to ensure no default spacing.
 
     **Navigation Link Styles:**
@@ -66,5 +66,4 @@ On your VSC, get into the myWebsite.html, right click and press:
 
 # Activity
 - W3Schools Link: https://www.w3schools.com/html/default.asp
-
                   https://www.w3schools.com/css/default.asp  
