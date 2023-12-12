@@ -1,0 +1,58 @@
+/* Reset some default margin and padding */
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Set some global styles */
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1em;
+}
+
+nav {
+    background-color: #f2f2f2;
+    padding: 0.5em;
+}
+
+img {
+    margin: 0;
+    padding: 0;
+
+}
+
+nav a {
+    text-decoration: none;
+    color: #333;
+    margin: 0 1em;
+}
+
+
+main {
+    padding: 2em;
+    
+}
+
+main img {
+    max-width: 20%; /* Ensure the image doesn't exceed its container */
+    height: 10; /* Maintain the aspect ratio of the image */
+    display: block; /* Center the image */
+    margin: 10 auto; /* Center the image horizontally */
+
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1em;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
