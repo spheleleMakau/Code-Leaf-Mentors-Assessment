@@ -34,36 +34,37 @@ On your VSC, get into the myWebsite.html, right click and press:
     - The CSS file is responsible for styling HTML elements to enhance the visual appeal of the website.
     - External styling is applied for better maintainability and separation of concerns.
 
-    Reset Default Margin and Padding:
+    **Reset Default Margin and Padding:**
     The first block resets the default margin and padding for body, h1, h2, and p elements to ensure consistent spacing.
 
-    Global Styles:
+    **Global Styles:**
         Sets the global font family for the entire page.
 
-    Header Styles:
+    **Header Styles:**
         Styles the header with a dark background, white text, centered alignment, and padding.
 
-    Navigation Styles:
+    **Navigation Styles:**
         Styles the navigation bar with a light background and padding.
 
-    Image Styles:
+    **mage Styles:**
         Resets margin and padding for images to ensure no default spacing.
 
-    Navigation Link Styles:
+    **Navigation Link Styles:**
         Styles navigation links with no text decoration, a specified color, and margin.
 
-    Main Content Styles:
+    **Main Content Styles:**
         Adds padding to the main content area.
 
-    Main Image Styles:
+    **Main Image Styles:**
         Styles the main image to be responsive, ensuring it doesn't exceed its container, maintains aspect ratio, and is centered horizontally.
 
-    Footer Styles:
+    **Footer Styles:**
         Styles the footer with a dark background, white text, centered alignment, and fixed position at the bottom of the page.
 
-## Language Used
+# Language Used
 - HTML & CSS
 
-## Activity
+# Activity
 - W3Schools Link: https://www.w3schools.com/html/default.asp
+
                   https://www.w3schools.com/css/default.asp  
