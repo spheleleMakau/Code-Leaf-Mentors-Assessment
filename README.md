@@ -66,4 +66,27 @@ On your VSC, get into the myWebsite.html, right click and press:
 
 # Activity
 - W3Schools Link: https://www.w3schools.com/html/default.asp
-                  https://www.w3schools.com/css/default.asp  
+                  https://www.w3schools.com/css/default.asp
+
+# Simulate how this webpage looks and behaves on different mobile devices
+
+Using a mobile emulator in your browser allows you to simulate how a webpage looks and behaves on different mobile devices. Most modern browsers come with built-in developer tools that include a device emulator. Here's a general guide for some popular browsers:
+ 
+# Google Chrome, Mozilla Firefox and Microsoft Edge:
+
+    **Open DevTools:**
+    
+        Right-click on your webpage and select "Inspect" or press Ctrl+Shift+I (Windows/Linux) or Cmd+Opt+I (Mac) to open Chrome DevTools.
+
+    **Toggle Device Toolbar:**
+    
+        Click on the "Toggle device toolbar" icon (it looks like a mobile device) in the top-left corner of the DevTools panel.
+        Alternatively, press Ctrl+Shift+M (Windows/Linux) or Cmd+Opt+M (Mac).
+
+    **Select a Device:**
+    
+        In the device toolbar, choose a specific device from the dropdown menu. You can also adjust the screen size and orientation.
+
+    **View the Page:**
+    
+        This webpage will now be displayed as it would on the selected device. You can interact with it to see how it responds ( The webpage is responsive and works          well on both desktop and mobile devices).
